@@ -26,7 +26,7 @@
 2. Используется библиотека Requests
 3. Параметризированные тесты с использованием декоратора
 
-![image](<img width="1917" height="759" alt="Image" src="https://github.com/user-attachments/assets/fa7f9630-2d4e-43c1-a498-1d6600fd3e65" />)
+<img width="1917" height="759" alt="Image" src="https://github.com/user-attachments/assets/fa7f9630-2d4e-43c1-a498-1d6600fd3e65" />
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
